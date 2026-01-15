@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://axo-fv.github.io/al-folio/sitemap.xml
+Sitemap: https://axo-fv.github.io/sitemap.xml
